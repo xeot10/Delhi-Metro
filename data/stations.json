@@ -1,0 +1,1007 @@
+[
+    {
+        "id": "RHW",
+        "transform": "translate(491.4630971493037,201.80500715928318)",
+        "stroke": "#c1282b"
+    },
+    {
+        "id": "RHE",
+        "transform": "translate(510.9124831865319,220.85303944114187)",
+        "stroke": "#c1282b"
+    },
+    {
+        "id": "PTP",
+        "transform": "translate(532.6940599644206,236.07193994880015)",
+        "stroke": "#c1282b"
+    },
+    {
+        "id": "KE",
+        "transform": "translate(603.1045255347768,312.4484748557295)",
+        "stroke": "#c1282b"
+    },
+    {
+        "id": "KP",
+        "transform": "translate(691.5433679003776,401.12595999479305)",
+        "stroke": "#c1282b"
+    },
+    {
+        "id": "KN",
+        "transform": "translate(702.0328025339525,411.7130212175118)",
+        "stroke": "#c1282b"
+    },
+    {
+        "id": "SHT",
+        "transform": "translate(757.4413155725257,443.6694580639561)",
+        "stroke": "#c1282b"
+    },
+    {
+        "id": "PRA",
+        "transform": "translate(793.8017963292403,443.6694580639561)",
+        "stroke": "#c1282b"
+    },
+    {
+        "id": "PBGH",
+        "transform": "translate(828.036186922376,443.6694580639561)",
+        "stroke": "#c1282b"
+    },
+    {
+        "id": "TZI",
+        "transform": "translate(866.544452640257,443.6694580639561)",
+        "stroke": "#c1282b"
+    },
+    {
+        "id": "SHPK",
+        "transform": "translate(1017.9524450036884,443.6694580639561)",
+        "stroke": "#c1282b"
+    },
+    {
+        "id": "SLAP",
+        "transform": "translate(1062.014578903979,415.08656224237404)",
+        "stroke": "#c1282b"
+    },
+    {
+        "id": "SHD",
+        "transform": "translate(1138.3694190133203,349.2753937605761)",
+        "stroke": "#c1282b"
+    },
+    {
+        "id": "MPK",
+        "transform": "translate(1170.738057013928,317.0043823491125)",
+        "stroke": "#c1282b"
+    },
+    {
+        "id": "JLML",
+        "transform": "translate(1203.1175424133291,284.7442183364428)",
+        "stroke": "#c1282b"
+    },
+    {
+        "id": "DSG",
+        "transform": "translate(1235.4861804139366,252.4732069249793)",
+        "stroke": "#c1282b"
+    },
+    {
+        "id": "SHDN",
+        "transform": "translate(1267.865665813338,220.2130429123096)",
+        "stroke": "#c1282b"
+    },
+    {
+        "id": "RJBH",
+        "transform": "translate(1300.245151212739,187.94203150084607)",
+        "stroke": "#c1282b"
+    },
+    {
+        "id": "RJNM",
+        "transform": "translate(1332.6137892133465,155.68186748817632)",
+        "stroke": "#c1282b"
+    },
+    {
+        "id": "SMPK",
+        "transform": "translate(1364.9932746127479,123.41085607671282)",
+        "stroke": "#c1282b"
+    },
+    {
+        "id": "MNGM",
+        "transform": "translate(1397.372760012149,91.15069206404293)",
+        "stroke": "#c1282b"
+    },
+    {
+        "id": "ATHA",
+        "transform": "translate(1429.7413980127565,58.87968065257941)",
+        "stroke": "#c1282b"
+    },
+    {
+        "id": "HDNR",
+        "transform": "translate(1462.1208834121578,26.619516639909687)",
+        "stroke": "#c1282b"
+    },
+    {
+        "id": "RISE",
+        "transform": "translate(603.2455417190959,106.26111858376339)",
+        "stroke": "#f5d618"
+    },
+    {
+        "id": "BIMR",
+        "transform": "translate(672.484488219725,172.03974486918028)",
+        "stroke": "#f5d618"
+    },
+    {
+        "id": "JGPI",
+        "transform": "translate(708.584631405389,211.871393239901)",
+        "stroke": "#f5d618"
+    },
+    {
+        "id": "AHNR",
+        "transform": "translate(748.4271271749036,252.16947975875354)",
+        "stroke": "#f5d618"
+    },
+    {
+        "id": "MDTW",
+        "transform": "translate(820.7033453377879,324.4456979216381)",
+        "stroke": "#f5d618"
+    },
+    {
+        "id": "GTBR",
+        "transform": "translate(839.9249360003472,344.0686423395666)",
+        "stroke": "#f5d618"
+    },
+    {
+        "id": "VW",
+        "transform": "translate(857.9750075931792,361.684817980648)",
+        "stroke": "#f5d618"
+    },
+    {
+        "id": "VS",
+        "transform": "translate(876.3938907449996,380.5267496854253)",
+        "stroke": "#f5d618"
+    },
+    {
+        "id": "CL",
+        "transform": "translate(888.640603983165,405.58424089903207)",
+        "stroke": "#f5d618"
+    },
+    {
+        "id": "CHK",
+        "transform": "translate(886.4819716232048,475.24623595261835)",
+        "stroke": "#f5d618"
+    },
+    {
+        "id": "CWBR",
+        "transform": "translate(886.4819716232048,494.9885017572783)",
+        "stroke": "#f5d618"
+    },
+    {
+        "id": "PTCK",
+        "transform": "translate(886.4819716232048,611.7607497722043)",
+        "stroke": "#f5d618"
+    },
+    {
+        "id": "UDB",
+        "transform": "translate(886.4819716232048,720.7228706556166)",
+        "stroke": "#f5d618"
+    },
+    {
+        "id": "LKM",
+        "transform": "translate(886.4819716232048,745.7261248752548)",
+        "stroke": "#f5d618"
+    },
+    {
+        "id": "JB",
+        "transform": "translate(886.4819716232048,763.8629756584369)",
+        "stroke": "#f5d618"
+    },
+    {
+        "id": "AIIMS",
+        "transform": "translate(886.4819716232048,862.6827786696749)",
+        "stroke": "#f5d618"
+    },
+    {
+        "id": "GNPK",
+        "transform": "translate(837.4300342777801,907.9381264372802)",
+        "stroke": "#f5d618"
+    },
+    {
+        "id": "MVNR",
+        "transform": "translate(774.4608842799498,989.2827699917557)",
+        "stroke": "#f5d618"
+    },
+    {
+        "id": "SAKT",
+        "transform": "translate(774.4608842799498,1016.5314357617041)",
+        "stroke": "#f5d618"
+    },
+    {
+        "id": "QM",
+        "transform": "translate(774.4608842799498,1043.7909489304463)",
+        "stroke": "#f5d618"
+    },
+    {
+        "id": "CHTP",
+        "transform": "translate(774.4608842799498,1072.6775719182538)",
+        "stroke": "#f5d618"
+    },
+    {
+        "id": "SLTP",
+        "transform": "translate(774.4608842799498,1104.449602985204)",
+        "stroke": "#f5d618"
+    },
+    {
+        "id": "GTNI",
+        "transform": "translate(774.4608842799498,1123.3240768863625)",
+        "stroke": "#f5d618"
+    },
+    {
+        "id": "AJG",
+        "transform": "translate(774.4608842799498,1142.2093981863147)",
+        "stroke": "#f5d618"
+    },
+    {
+        "id": "GE",
+        "transform": "translate(774.4608842799498,1161.0730246886794)",
+        "stroke": "#f5d618"
+    },
+    {
+        "id": "MGRO",
+        "transform": "translate(774.4608842799498,1231.6787434373234)",
+        "stroke": "#f5d618"
+    },
+    {
+        "id": "IFOC",
+        "transform": "translate(774.4608842799498,1297.468217121534)",
+        "stroke": "#f5d618"
+    },
+    {
+        "id": "DSET",
+        "transform": "translate(413.7197899943594,1248.6983121447474)",
+        "stroke": "#3e77bc"
+    },
+    {
+        "id": "DSN",
+        "transform": "translate(413.7197899943594,1190.805744782401)",
+        "stroke": "#3e77bc"
+    },
+    {
+        "id": "DST",
+        "transform": "translate(413.7197899943594,1132.9131774200546)",
+        "stroke": "#3e77bc"
+    },
+    {
+        "id": "DSE",
+        "transform": "translate(413.7197899943594,1076.387382305723)",
+        "stroke": "#3e77bc"
+    },
+    {
+        "id": "DSW",
+        "transform": "translate(413.7197899943594,1017.1171952965676)",
+        "stroke": "#3e77bc"
+    },
+    {
+        "id": "DSTN",
+        "transform": "translate(413.7197899943594,959.2246279342212)",
+        "stroke": "#3e77bc"
+    },
+    {
+        "id": "DSFN",
+        "transform": "translate(413.7197899943594,901.3320605718746)",
+        "stroke": "#3e77bc"
+    },
+    {
+        "id": "DM",
+        "transform": "translate(413.7197899943594,785.5360784483878)",
+        "stroke": "#3e77bc"
+    },
+    {
+        "id": "NWD",
+        "transform": "translate(413.7197899943594,727.6435110860414)",
+        "stroke": "#3e77bc"
+    },
+    {
+        "id": "UNW",
+        "transform": "translate(413.7197899943594,669.7509437236948)",
+        "stroke": "#3e77bc"
+    },
+    {
+        "id": "UNE",
+        "transform": "translate(413.7197899943594,611.8475289625546)",
+        "stroke": "#3e77bc"
+    },
+    {
+        "id": "JPE",
+        "transform": "translate(460.98190653881204,562.2098320822664)",
+        "stroke": "#3e77bc"
+    },
+    {
+        "id": "TN",
+        "transform": "translate(495.50917689937955,553.7380136243326)",
+        "stroke": "#3e77bc"
+    },
+    {
+        "id": "SN",
+        "transform": "translate(528.6262854167571,553.7380136243326)",
+        "stroke": "#3e77bc"
+    },
+    {
+        "id": "TG",
+        "transform": "translate(563.9996528832387,553.7380136243326)",
+        "stroke": "#3e77bc"
+    },
+    {
+        "id": "RN",
+        "transform": "translate(657.2438929144791,553.7380136243326)",
+        "stroke": "#3e77bc"
+    },
+    {
+        "id": "MN",
+        "transform": "translate(672.1916084522932,553.7380136243326)",
+        "stroke": "#3e77bc"
+    },
+    {
+        "id": "SP",
+        "transform": "translate(724.758103006899,553.7380136243326)",
+        "stroke": "#3e77bc"
+    },
+    {
+        "id": "PN",
+        "transform": "translate(741.0834381915217,553.7380136243326)",
+        "stroke": "#3e77bc"
+    },
+    {
+        "id": "RP",
+        "transform": "translate(767.724649629019,553.7380136243326)",
+        "stroke": "#3e77bc"
+    },
+    {
+        "id": "KB",
+        "transform": "translate(785.1021824966374,553.7380136243326)",
+        "stroke": "#3e77bc"
+    },
+    {
+        "id": "JW",
+        "transform": "translate(817.2755673189571,553.7380136243326)",
+        "stroke": "#3e77bc"
+    },
+    {
+        "id": "RKAM",
+        "transform": "translate(843.2550874300343,553.7380136243326)",
+        "stroke": "#3e77bc"
+    },
+    {
+        "id": "BRKR",
+        "transform": "translate(930.5658003210831,553.7380136243326)",
+        "stroke": "#3e77bc"
+    },
+    {
+        "id": "PTMD",
+        "transform": "translate(989.0875168134681,568.0565800321081)",
+        "stroke": "#3e77bc"
+    },
+    {
+        "id": "IDPT",
+        "transform": "translate(1010.673840413069,581.4314227448255)",
+        "stroke": "#3e77bc"
+    },
+    {
+        "id": "ASDM",
+        "transform": "translate(1080.2165140799239,638.8250097626587)",
+        "stroke": "#3e77bc"
+    },
+    {
+        "id": "MVE",
+        "transform": "translate(1128.3572699266715,684.080357530264)",
+        "stroke": "#3e77bc"
+    },
+    {
+        "id": "NAGR",
+        "transform": "translate(1150.5727426563108,705.8836291057402)",
+        "stroke": "#3e77bc"
+    },
+    {
+        "id": "NSFT",
+        "transform": "translate(1173.6885494858334,727.8387642643291)",
+        "stroke": "#3e77bc"
+    },
+    {
+        "id": "NSST",
+        "transform": "translate(1196.5223239467177,749.2840716796109)",
+        "stroke": "#3e77bc"
+    },
+    {
+        "id": "NSET",
+        "transform": "translate(1218.1954267366684,769.5253178287842)",
+        "stroke": "#3e77bc"
+    },
+    {
+        "id": "GEC",
+        "transform": "translate(1279.1144183624765,827.266021608018)",
+        "stroke": "#3e77bc"
+    },
+    {
+        "id": "NCC",
+        "transform": "translate(1310.593569661995,857.0421312969147)",
+        "stroke": "#3e77bc"
+    },
+    {
+        "id": "STFN",
+        "transform": "translate(1342.0618735627195,886.8182409858114)",
+        "stroke": "#3e77bc"
+    },
+    {
+        "id": "SFTN",
+        "transform": "translate(1373.5410248622381,916.5943506747079)",
+        "stroke": "#3e77bc"
+    },
+    {
+        "id": "SSON",
+        "transform": "translate(1405.0201761617564,946.3704603636046)",
+        "stroke": "#3e77bc"
+    },
+    {
+        "id": "SFNN",
+        "transform": "translate(1436.4884800624811,976.146570052501)",
+        "stroke": "#3e77bc"
+    },
+    {
+        "id": "SSTN",
+        "transform": "translate(1467.9676313619993,1005.9226797413979)",
+        "stroke": "#3e77bc"
+    },
+    {
+        "id": "LN",
+        "transform": "translate(1071.462663253352,571.1589360871261)",
+        "stroke": "#3e77bc"
+    },
+    {
+        "id": "NV",
+        "transform": "translate(1095.0882978261814,548.3685512214167)",
+        "stroke": "#3e77bc"
+    },
+    {
+        "id": "PTVR",
+        "transform": "translate(1118.0522410725905,525.9252831171083)",
+        "stroke": "#3e77bc"
+    },
+    {
+        "id": "KSHI",
+        "transform": "translate(1237.0373584414456,411.2357356705859)",
+        "stroke": "#3e77bc"
+    },
+    {
+        "id": "BUSS",
+        "transform": "translate(33.6920206534473,494.4352844187961)",
+        "stroke": "#52aa55"
+    },
+    {
+        "id": "MIEE",
+        "transform": "translate(66.29930142751769,494.4352844187961)",
+        "stroke": "#52aa55"
+    },
+    {
+        "id": "TKBR",
+        "transform": "translate(98.90658220158807,494.4352844187961)",
+        "stroke": "#52aa55"
+    },
+    {
+        "id": "TKLM",
+        "transform": "translate(131.50301557686467,494.4352844187961)",
+        "stroke": "#52aa55"
+    },
+    {
+        "id": "GHEM",
+        "transform": "translate(164.11029635093504,494.4352844187961)",
+        "stroke": "#52aa55"
+    },
+    {
+        "id": "MIAA",
+        "transform": "translate(196.71757712500545,494.4352844187961)",
+        "stroke": "#52aa55"
+    },
+    {
+        "id": "MUDK",
+        "transform": "translate(229.32485789907582,494.4352844187961)",
+        "stroke": "#52aa55"
+    },
+    {
+        "id": "RDPK",
+        "transform": "translate(261.9212912743524,494.4352844187961)",
+        "stroke": "#52aa55"
+    },
+    {
+        "id": "NRSN",
+        "transform": "translate(294.52857204842286,494.4352844187961)",
+        "stroke": "#52aa55"
+    },
+    {
+        "id": "NNOI",
+        "transform": "translate(327.13585282249323,494.4352844187961)",
+        "stroke": "#52aa55"
+    },
+    {
+        "id": "SMSM",
+        "transform": "translate(359.7431335965636,494.4352844187961)",
+        "stroke": "#52aa55"
+    },
+    {
+        "id": "UNRG",
+        "transform": "translate(392.350414370634,494.4352844187961)",
+        "stroke": "#52aa55"
+    },
+    {
+        "id": "PAGI",
+        "transform": "translate(442.92098754718626,494.4352844187961)",
+        "stroke": "#52aa55"
+    },
+    {
+        "id": "PVW",
+        "transform": "translate(472.7513342300517,494.4352844187961)",
+        "stroke": "#52aa55"
+    },
+    {
+        "id": "PVE",
+        "transform": "translate(510.42435024081226,494.4352844187961)",
+        "stroke": "#52aa55"
+    },
+    {
+        "id": "MAPR",
+        "transform": "translate(544.5936564411854,494.4352844187961)",
+        "stroke": "#52aa55"
+    },
+    {
+        "id": "SHVP",
+        "transform": "translate(574.3046817373195,494.4352844187961)",
+        "stroke": "#52aa55"
+    },
+    {
+        "id": "PBGA",
+        "transform": "translate(658.1116848179807,494.4352844187961)",
+        "stroke": "#52aa55"
+    },
+    {
+        "id": "APMN",
+        "transform": "translate(688.0396580899901,494.4352844187961)",
+        "stroke": "#52aa55"
+    },
+    {
+        "id": "SRSM",
+        "transform": "translate(695.3399574781968,519.5795548227533)",
+        "stroke": "#52aa55"
+    },
+    {
+        "id": "LLQA",
+        "transform": "translate(961.9907146266326,458.0422614657002)",
+        "stroke": "#8115ff"
+    },
+    {
+        "id": "JAMD",
+        "transform": "translate(961.9907146266326,479.6068902677135)",
+        "stroke": "#8115ff"
+    },
+    {
+        "id": "DLIG",
+        "transform": "translate(961.9907146266326,492.96003818284345)",
+        "stroke": "#8115ff"
+    },
+    {
+        "id": "ITO",
+        "transform": "translate(961.9907146266326,530.9910183537985)",
+        "stroke": "#8115ff"
+    },
+    {
+        "id": "JNPH",
+        "transform": "translate(961.9907146266326,636.5904456111422)",
+        "stroke": "#8115ff"
+    },
+    {
+        "id": "KM",
+        "transform": "translate(905.8662732676705,730.6048509567403)",
+        "stroke": "#8115ff"
+    },
+    {
+        "id": "JLNS",
+        "transform": "translate(956.6212522237167,738.9356532303551)",
+        "stroke": "#8115ff"
+    },
+    {
+        "id": "JGPA",
+        "transform": "translate(965.4076452466699,763.244673927192)",
+        "stroke": "#8115ff"
+    },
+    {
+        "id": "MLCD",
+        "transform": "translate(964.9412070985379,829.7392285329977)",
+        "stroke": "#8115ff"
+    },
+    {
+        "id": "KHCY",
+        "transform": "translate(965.2557816635572,870.6773115806826)",
+        "stroke": "#8115ff"
+    },
+    {
+        "id": "NP",
+        "transform": "translate(965.5812036273702,913.6547056015964)",
+        "stroke": "#8115ff"
+    },
+    {
+        "id": "GDPI",
+        "transform": "translate(965.4076452466699,992.6346162190304)",
+        "stroke": "#8115ff"
+    },
+    {
+        "id": "HNOK",
+        "transform": "translate(965.4076452466699,1014.3836508005378)",
+        "stroke": "#8115ff"
+    },
+    {
+        "id": "JLA",
+        "transform": "translate(965.4076452466699,1036.143532780839)",
+        "stroke": "#8115ff"
+    },
+    {
+        "id": "STVR",
+        "transform": "translate(965.4076452466699,1057.8925673623464)",
+        "stroke": "#8115ff"
+    },
+    {
+        "id": "METE",
+        "transform": "translate(965.4076452466699,1079.6416019438536)",
+        "stroke": "#8115ff"
+    },
+    {
+        "id": "TKDS",
+        "transform": "translate(965.4076452466699,1093.2876296264153)",
+        "stroke": "#8115ff"
+    },
+    {
+        "id": "BAPB",
+        "transform": "translate(965.4076452466699,1123.1505185056621)",
+        "stroke": "#8115ff"
+    },
+    {
+        "id": "SRAI",
+        "transform": "translate(965.4076452466699,1144.9104004859632)",
+        "stroke": "#8115ff"
+    },
+    {
+        "id": "NHPC",
+        "transform": "translate(965.4076452466699,1166.6594350674707)",
+        "stroke": "#8115ff"
+    },
+    {
+        "id": "MMJR",
+        "transform": "translate(965.4076452466699,1188.4084696489779)",
+        "stroke": "#8115ff"
+    },
+    {
+        "id": "STTA",
+        "transform": "translate(965.4076452466699,1210.168351629279)",
+        "stroke": "#8115ff"
+    },
+    {
+        "id": "BKMR",
+        "transform": "translate(965.4076452466699,1231.9173862107864)",
+        "stroke": "#8115ff"
+    },
+    {
+        "id": "OFDB",
+        "transform": "translate(965.4076452466699,1253.6664207922938)",
+        "stroke": "#8115ff"
+    },
+    {
+        "id": "NCAJ",
+        "transform": "translate(965.4076452466699,1275.426302772595)",
+        "stroke": "#8115ff"
+    },
+    {
+        "id": "BACH",
+        "transform": "translate(965.4076452466699,1297.175337354102)",
+        "stroke": "#8115ff"
+    },
+    {
+        "id": "ECMJ",
+        "transform": "translate(965.4076452466699,1318.9352193344034)",
+        "stroke": "#8115ff"
+    },
+    {
+        "id": "NCBC",
+        "transform": "translate(965.4076452466699,1340.6842539159109)",
+        "stroke": "#8115ff"
+    },
+    {
+        "id": "SMBG",
+        "transform": "translate(739.6949711459192,333.8503926758362)",
+        "stroke": "#e692be"
+    },
+    {
+        "id": "SAKP",
+        "transform": "translate(656.2676270230398,431.73731939080994)",
+        "stroke": "#e692be"
+    },
+    {
+        "id": "ESIH",
+        "transform": "translate(626.8928710895128,534.2886275871044)",
+        "stroke": "#e692be"
+    },
+    {
+        "id": "MYPI",
+        "transform": "translate(638.076539245889,609.7322861977696)",
+        "stroke": "#e692be"
+    },
+    {
+        "id": "NAVR",
+        "transform": "translate(661.7998004078622,669.5231483490257)",
+        "stroke": "#e692be"
+    },
+    {
+        "id": "DLIC",
+        "transform": "translate(701.110773636482,723.7601423178718)",
+        "stroke": "#e692be"
+    },
+    {
+        "id": "DDSC",
+        "transform": "translate(761.4223109298392,770.5341259166049)",
+        "stroke": "#e692be"
+    },
+    {
+        "id": "SVMB",
+        "transform": "translate(789.2567362346509,783.9306634269101)",
+        "stroke": "#e692be"
+    },
+    {
+        "id": "BKCP",
+        "transform": "translate(817.2864147177507,794.2899292749595)",
+        "stroke": "#e692be"
+    },
+    {
+        "id": "SOJI",
+        "transform": "translate(856.1634919946197,801.7095500498976)",
+        "stroke": "#e692be"
+    },
+    {
+        "id": "SOEN",
+        "transform": "translate(921.681780708986,801.8288714366294)",
+        "stroke": "#e692be"
+    },
+    {
+        "id": "VNPR",
+        "transform": "translate(1010.53282422875,774.1137675185487)",
+        "stroke": "#e692be"
+    },
+    {
+        "id": "AHRM",
+        "transform": "translate(1049.0519373454247,749.2840716796109)",
+        "stroke": "#e692be"
+    },
+    {
+        "id": "NIZM",
+        "transform": "translate(1075.6714539853344,721.4171041784177)",
+        "stroke": "#e692be"
+    },
+    {
+        "id": "MVPO",
+        "transform": "translate(1125.4935566451165,650.6486744478672)",
+        "stroke": "#e692be"
+    },
+    {
+        "id": "TKPR",
+        "transform": "translate(1134.724693018614,626.1769427691237)",
+        "stroke": "#e692be"
+    },
+    {
+        "id": "VENT",
+        "transform": "translate(1141.873128823708,598.8089556124439)",
+        "stroke": "#e692be"
+    },
+    {
+        "id": "VNNR",
+        "transform": "translate(1146.48327331106,563.3054193604372)",
+        "stroke": "#e692be"
+    },
+    {
+        "id": "IPE",
+        "transform": "translate(1146.48327331106,530.9910183537985)",
+        "stroke": "#e692be"
+    },
+    {
+        "id": "KKDC",
+        "transform": "translate(1137.2738317351498,474.4109862454981)",
+        "stroke": "#e692be"
+    },
+    {
+        "id": "KHNA",
+        "transform": "translate(1125.9274525968672,441.1528615438015)",
+        "stroke": "#e692be"
+    },
+    {
+        "id": "EANR",
+        "transform": "translate(1110.8821104699093,411.4852258428427)",
+        "stroke": "#e692be"
+    },
+    {
+        "id": "JFRB",
+        "transform": "translate(1095.522193777932,302.7942899292748)",
+        "stroke": "#e692be"
+    },
+    {
+        "id": "MUPR",
+        "transform": "translate(1095.522193777932,246.8759491473943)",
+        "stroke": "#e692be"
+    },
+    {
+        "id": "GKPR",
+        "transform": "translate(1095.522193777932,190.9467609667202)",
+        "stroke": "#e692be"
+    },
+    {
+        "id": "JIEE",
+        "transform": "translate(1095.522193777932,135.02842018483972)",
+        "stroke": "#e692be"
+    },
+    {
+        "id": "DBMR",
+        "transform": "translate(441.01184535948283,618.7573219941855)",
+        "stroke": "#FF00FF"
+    },
+    {
+        "id": "DSHP",
+        "transform": "translate(458.80157938126445,689.0810083741916)",
+        "stroke": "#FF00FF"
+    },
+    {
+        "id": "PALM",
+        "transform": "translate(490.47598385907065,759.29622076626)",
+        "stroke": "#FF00FF"
+    },
+    {
+        "id": "SABR",
+        "transform": "translate(537.6947108083482,824.499934915607)",
+        "stroke": "#FF00FF"
+    },
+    {
+        "id": "IGDA",
+        "transform": "translate(595.9560897296828,878.6935392892783)",
+        "stroke": "#FF00FF"
+    },
+    {
+        "id": "SKVR",
+        "transform": "translate(664.8370720701176,926.2593829999564)",
+        "stroke": "#FF00FF"
+    },
+    {
+        "id": "VTVR",
+        "transform": "translate(686.6728858419751,935.9027205276174)",
+        "stroke": "#FF00FF"
+    },
+    {
+        "id": "MIRK",
+        "transform": "translate(709.4849655052719,945.0253829131772)",
+        "stroke": "#FF00FF"
+    },
+    {
+        "id": "RKPM",
+        "transform": "translate(732.4922983468565,953.55143836508)",
+        "stroke": "#FF00FF"
+    },
+    {
+        "id": "IIT",
+        "transform": "translate(755.6948843667288,960.2659782184229)",
+        "stroke": "#FF00FF"
+    },
+    {
+        "id": "PSPK",
+        "transform": "translate(813.3921985507875,970.3974486918034)",
+        "stroke": "#FF00FF"
+    },
+    {
+        "id": "CDLI",
+        "transform": "translate(856.6299301427518,974.3892914479105)",
+        "stroke": "#FF00FF"
+    },
+    {
+        "id": "GKEI",
+        "transform": "translate(911.1381090814423,973.6516683299344)",
+        "stroke": "#FF00FF"
+    },
+    {
+        "id": "NUEE",
+        "transform": "translate(939.0050765826354,970.7771076495856)",
+        "stroke": "#FF00FF"
+    },
+    {
+        "id": "OKNS",
+        "transform": "translate(995.0535861500413,959.4415759100966)",
+        "stroke": "#FF00FF"
+    },
+    {
+        "id": "IWNR",
+        "transform": "translate(1037.9116587842236,945.0470777107647)",
+        "stroke": "#FF00FF"
+    },
+    {
+        "id": "JANR",
+        "transform": "translate(1082.8198897904285,925.7604026554429)",
+        "stroke": "#FF00FF"
+    },
+    {
+        "id": "OVA",
+        "transform": "translate(1126.2094849655055,900.0303727166224)",
+        "stroke": "#FF00FF"
+    },
+    {
+        "id": "JLA8",
+        "transform": "translate(1163.8825009762656,871.8705254479974)",
+        "stroke": "#FF00FF"
+    },
+    {
+        "id": "KIKJ",
+        "transform": "translate(1195.697921638391,841.9967891699569)",
+        "stroke": "#FF00FF"
+    },
+    {
+        "id": "OKBS",
+        "transform": "translate(1224.9099665900117,809.411203193474)",
+        "stroke": "#FF00FF"
+    },
+    {
+        "id": "NNGI",
+        "transform": "translate(381.17759361305167,835.499197292489)",
+        "stroke": "#d4d4d6"
+    },
+    {
+        "id": "NFGH",
+        "transform": "translate(359.48279602551315,835.499197292489)",
+        "stroke": "#d4d4d6"
+    },
+    {
+        "id": "SJSU",
+        "transform": "translate(813.5549095326941,647.2968282205924)",
+        "stroke": "#eb8923"
+    },
+    {
+        "id": "DACY",
+        "transform": "translate(641.6995704430079,944.1033540157068)",
+        "stroke": "#eb8923"
+    },
+    {
+        "id": "APOT",
+        "transform": "translate(555.5386818240986,1094.1445741311231)",
+        "stroke": "#eb8923"
+    },
+    {
+        "id": "BEL",
+        "transform": "translate(626.1444005727427,1186.857291621469)",
+        "stroke": "#015b97"
+    },
+    {
+        "id": "GAT",
+        "transform": "translate(636.0480756714541,1122.6732329587364)",
+        "stroke": "#015b97"
+    },
+    {
+        "id": "MAL",
+        "transform": "translate(646.2229357400096,1085.455807697314)",
+        "stroke": "#015b97"
+    },
+    {
+        "id": "DL3",
+        "transform": "translate(704.1914348939125,1102.5513081962943)",
+        "stroke": "#015b97"
+    },
+    {
+        "id": "PH1",
+        "transform": "translate(814.2274482579078,1186.857291621469)",
+        "stroke": "#015b97"
+    },
+    {
+        "id": "SUL",
+        "transform": "translate(884.3450340608323,1186.857291621469)",
+        "stroke": "#015b97"
+    },
+    {
+        "id": "S53",
+        "transform": "translate(884.3450340608323,1263.1578947368419)",
+        "stroke": "#015b97"
+    },
+    {
+        "id": "AIT",
+        "transform": "translate(884.3450340608323,1312.79559161713)",
+        "stroke": "#015b97"
+    }
+]

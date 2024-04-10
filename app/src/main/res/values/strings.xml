@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DelhiMetro</string>
+    <string name="from_station">Your Location</string>
+    <string name="to_station">Search Where ? </string>
+    <string name="search_icon">Search Icon</string>
+    <!--    routes go here-->
+
+<!--    routes are above-->
+</resources>

@@ -1,0 +1,3291 @@
+[
+    {
+        "id": "RI",
+        "name": "Rithala",
+        "text-anchor": "end",
+        "labels": [
+            {
+                "x": "470.0140509437564",
+                "y": "190.5708407992036",
+                "text": "Rithala",
+                "dominant-baseline": "hanging"
+            }
+        ]
+    },
+    {
+        "id": "RHW",
+        "name": "Rohini West",
+        "text-anchor": "end",
+        "labels": [
+            {
+                "x": "486.3719283247605",
+                "y": "206.8961759838263",
+                "text": "Rohini West",
+                "dominant-baseline": "hanging"
+            }
+        ]
+    },
+    {
+        "id": "RHE",
+        "name": "Rohini East",
+        "text-anchor": "end",
+        "labels": [
+            {
+                "x": "505.82131436198875",
+                "y": "225.944208265685",
+                "text": "Rohini East",
+                "dominant-baseline": "hanging"
+            }
+        ]
+    },
+    {
+        "id": "PTP",
+        "name": "Pitampura",
+        "text-anchor": "end",
+        "labels": [
+            {
+                "x": "527.6028911398774",
+                "y": "241.16310877334328",
+                "text": "Pitampura",
+                "dominant-baseline": "hanging"
+            }
+        ]
+    },
+    {
+        "id": "KE",
+        "name": "Kohat Enclave",
+        "text-anchor": "end",
+        "labels": [
+            {
+                "x": "598.0133567102337",
+                "y": "317.53964368027266",
+                "text": "Kohat Enclave",
+                "dominant-baseline": "hanging"
+            }
+        ]
+    },
+    {
+        "id": "NSHP",
+        "name": "Netaji Subhash Place",
+        "text-anchor": "end",
+        "labels": [
+            {
+                "x": "670.6864928190221",
+                "y": "384.35588145962583",
+                "text": "Netaji Subhash Place",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "KP",
+        "name": "Keshav Puram",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "696.6345367249207",
+                "y": "396.0347911702499",
+                "text": "Keshav Puram",
+                "dominant-baseline": "baseline"
+            }
+        ]
+    },
+    {
+        "id": "KN",
+        "name": "Kanhaiya Nagar",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "707.1239713584956",
+                "y": "406.62185239296866",
+                "text": "Kanhaiya Nagar",
+                "dominant-baseline": "baseline"
+            }
+        ]
+    },
+    {
+        "id": "ILOK",
+        "name": "Inderlok",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "733.4506082309736",
+                "y": "425.60480028206484",
+                "text": "Inderlok",
+                "dominant-baseline": "baseline"
+            }
+        ]
+    },
+    {
+        "id": "SHT",
+        "name": "Shastri Nagar",
+        "text-anchor": "middle",
+        "labels": [
+            {
+                "x": "757.4413155725257",
+                "y": "450.8694580639561",
+                "text": "Shastri Nagar",
+                "dominant-baseline": "hanging"
+            }
+        ]
+    },
+    {
+        "id": "PRA",
+        "name": "Pratap Nagar",
+        "text-anchor": "middle",
+        "labels": [
+            {
+                "x": "793.8017963292403",
+                "y": "436.4694580639561",
+                "text": "Pratap Nagar",
+                "dominant-baseline": "baseline"
+            }
+        ]
+    },
+    {
+        "id": "PBGH",
+        "name": "Pulbangash",
+        "text-anchor": "middle",
+        "labels": [
+            {
+                "x": "828.036186922376",
+                "y": "450.8694580639561",
+                "text": "Pulbangash",
+                "dominant-baseline": "hanging"
+            }
+        ]
+    },
+    {
+        "id": "TZI",
+        "name": "Tis Hazari",
+        "text-anchor": "middle",
+        "labels": [
+            {
+                "x": "866.544452640257",
+                "y": "450.8694580639561",
+                "text": "Tis Hazari",
+                "dominant-baseline": "hanging"
+            }
+        ]
+    },
+    {
+        "id": "KG",
+        "name": "Kashmere Gate",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "891.573140447748",
+                "y": "438.5782892394129",
+                "text": "Kashmere Gate",
+                "dominant-baseline": "baseline"
+            }
+        ]
+    },
+    {
+        "id": "SHPK",
+        "name": "Shastri Park",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "1023.0436138282315",
+                "y": "448.76062688849925",
+                "text": "Shastri Park",
+                "dominant-baseline": "hanging"
+            }
+        ]
+    },
+    {
+        "id": "SLAP",
+        "name": "Seelampur",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "1067.1057477285221",
+                "y": "420.1777310669172",
+                "text": "Seelampur",
+                "dominant-baseline": "hanging"
+            }
+        ]
+    },
+    {
+        "id": "WC",
+        "name": "Welcome",
+        "text-anchor": "end",
+        "labels": [
+            {
+                "x": "1085.881529049334",
+                "y": "383.7918167223498",
+                "text": "Welcome",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "SHD",
+        "name": "Shahdara",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "1143.4605878378634",
+                "y": "354.36656258511925",
+                "text": "Shahdara",
+                "dominant-baseline": "hanging"
+            }
+        ]
+    },
+    {
+        "id": "MPK",
+        "name": "Mansarovar Park",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "1175.829225838471",
+                "y": "322.0955511736557",
+                "text": "Mansarovar Park",
+                "dominant-baseline": "hanging"
+            }
+        ]
+    },
+    {
+        "id": "JLML",
+        "name": "Jhilmil",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "1208.2087112378722",
+                "y": "289.835387160986",
+                "text": "Jhilmil",
+                "dominant-baseline": "hanging"
+            }
+        ]
+    },
+    {
+        "id": "DSG",
+        "name": "Dilshad Garden",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "1240.5773492384797",
+                "y": "257.56437574952247",
+                "text": "Dilshad Garden",
+                "dominant-baseline": "hanging"
+            }
+        ]
+    },
+    {
+        "id": "SHDN",
+        "name": "Shaheed Nagar",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "1272.956834637881",
+                "y": "225.30421173685272",
+                "text": "Shaheed Nagar",
+                "dominant-baseline": "hanging"
+            }
+        ]
+    },
+    {
+        "id": "RJBH",
+        "name": "Raj Bagh",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "1305.3363200372821",
+                "y": "193.0332003253892",
+                "text": "Raj Bagh",
+                "dominant-baseline": "hanging"
+            }
+        ]
+    },
+    {
+        "id": "RJNM",
+        "name": "Major Mohit SharmaRajendra Nagar",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "1337.7049580378896",
+                "y": "160.77303631271946",
+                "text": "Major Mohit Sharma",
+                "dominant-baseline": "hanging"
+            },
+            {
+                "x": "1337.7049580378896",
+                "y": "160.77303631271946",
+                "text": "Rajendra Nagar",
+                "dominant-baseline": "hanging"
+            }
+        ]
+    },
+    {
+        "id": "SMPK",
+        "name": "Shyam Park",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "1370.084443437291",
+                "y": "128.50202490125596",
+                "text": "Shyam Park",
+                "dominant-baseline": "hanging"
+            }
+        ]
+    },
+    {
+        "id": "MNGM",
+        "name": "Mohan Nagar",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "1402.463928836692",
+                "y": "96.24186088858607",
+                "text": "Mohan Nagar",
+                "dominant-baseline": "hanging"
+            }
+        ]
+    },
+    {
+        "id": "ATHA",
+        "name": "Arthala",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "1434.8325668372995",
+                "y": "63.97084947712255",
+                "text": "Arthala",
+                "dominant-baseline": "hanging"
+            }
+        ]
+    },
+    {
+        "id": "HDNR",
+        "name": "Hindon River",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "1467.2120522367009",
+                "y": "31.71068546445283",
+                "text": "Hindon River",
+                "dominant-baseline": "hanging"
+            }
+        ]
+    },
+    {
+        "id": "NBAA",
+        "name": "Shaheed Sthal (NewBus Adda)",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "1493.1807249489843",
+                "y": "6.175908703920108",
+                "text": "Shaheed Sthal (New",
+                "dominant-baseline": "hanging"
+            },
+            {
+                "x": "1493.1807249489843",
+                "y": "6.175908703920108",
+                "text": "Bus Adda)",
+                "dominant-baseline": "hanging"
+            }
+        ]
+    },
+    {
+        "id": "SPBI",
+        "name": "Samaypur Badli",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "557.7705731765524",
+                "y": "53.455981255694894",
+                "text": "Samaypur Badli",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "RISE",
+        "name": "Rohini Sector -18,19",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "610.4455417190959",
+                "y": "101.26111858376339",
+                "text": "Rohini Sector -",
+                "dominant-baseline": "middle"
+            },
+            {
+                "x": "610.4455417190959",
+                "y": "101.26111858376339",
+                "text": "18,19",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "BIMR",
+        "name": "Haiderpur Badli Mor",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "679.684488219725",
+                "y": "172.03974486918028",
+                "text": "Haiderpur Badli Mor",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "JGPI",
+        "name": "JahangirPuri",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "715.7846314053891",
+                "y": "211.871393239901",
+                "text": "JahangirPuri",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "AHNR",
+        "name": "Adarsh Nagar",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "755.6271271749036",
+                "y": "252.16947975875354",
+                "text": "Adarsh Nagar",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "AZU",
+        "name": "Azadpur",
+        "text-anchor": "end",
+        "labels": [
+            {
+                "x": "787.7516206013797",
+                "y": "294.05128650149686",
+                "text": "Azadpur",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "MDTW",
+        "name": "Model Town",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "827.903345337788",
+                "y": "324.4456979216381",
+                "text": "Model Town",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "GTBR",
+        "name": "Guru Teg BahadurNagar",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "847.1249360003472",
+                "y": "339.0686423395666",
+                "text": "Guru Teg Bahadur",
+                "dominant-baseline": "middle"
+            },
+            {
+                "x": "847.1249360003472",
+                "y": "339.0686423395666",
+                "text": "Nagar",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "VW",
+        "name": "Vishwavidyalaya",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "865.1750075931792",
+                "y": "361.684817980648",
+                "text": "Vishwavidyalaya",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "VS",
+        "name": "Vidhan Sabha",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "883.5938907449996",
+                "y": "380.5267496854253",
+                "text": "Vidhan Sabha",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "CL",
+        "name": "Civil Lines",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "895.840603983165",
+                "y": "405.58424089903207",
+                "text": "Civil Lines",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "CHK",
+        "name": "Chandni Chowk",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "893.6819716232048",
+                "y": "475.24623595261835",
+                "text": "Chandni Chowk",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "CWBR",
+        "name": "Chawri Bazar",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "893.6819716232048",
+                "y": "494.9885017572783",
+                "text": "Chawri Bazar",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "NDI",
+        "name": "New Delhi",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "894.0616305809867",
+                "y": "506.19386471124193",
+                "text": "New Delhi",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "RCK",
+        "name": "Rajiv Chowk",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "891.9527994055298",
+                "y": "558.8291824488757",
+                "text": "Rajiv Chowk",
+                "dominant-baseline": "hanging"
+            }
+        ]
+    },
+    {
+        "id": "PTCK",
+        "name": "Patel Chowk",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "893.6819716232048",
+                "y": "611.7607497722043",
+                "text": "Patel Chowk",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "CTST",
+        "name": "Central Secretariat",
+        "text-anchor": "end",
+        "labels": [
+            {
+                "x": "877.0257126741008",
+                "y": "683.3861240074626",
+                "text": "Central Secretariat",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "UDB",
+        "name": "Udyog Bhawan",
+        "text-anchor": "end",
+        "labels": [
+            {
+                "x": "879.2819716232048",
+                "y": "720.7228706556166",
+                "text": "Udyog Bhawan",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "LKM",
+        "name": "Lok Kalyan Marg",
+        "text-anchor": "end",
+        "labels": [
+            {
+                "x": "879.2819716232048",
+                "y": "745.7261248752548",
+                "text": "Lok Kalyan Marg",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "JB",
+        "name": "Jor Bagh",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "893.6819716232048",
+                "y": "763.8629756584369",
+                "text": "Jor Bagh",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "INA",
+        "name": "Dilli Haat-INA",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "891.573140447748",
+                "y": "795.327540768896",
+                "text": "Dilli Haat-INA",
+                "dominant-baseline": "baseline"
+            }
+        ]
+    },
+    {
+        "id": "AIIMS",
+        "name": "AIIMS",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "891.573140447748",
+                "y": "867.7739474942181",
+                "text": "AIIMS",
+                "dominant-baseline": "hanging"
+            }
+        ]
+    },
+    {
+        "id": "GNPK",
+        "name": "Green Park",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "842.5212031023233",
+                "y": "913.0292952618233",
+                "text": "Green Park",
+                "dominant-baseline": "hanging"
+            }
+        ]
+    },
+    {
+        "id": "HKS",
+        "name": "Hauz Khas",
+        "text-anchor": "end",
+        "labels": [
+            {
+                "x": "769.3697154554067",
+                "y": "966.5178187138996",
+                "text": "Hauz Khas",
+                "dominant-baseline": "hanging"
+            }
+        ]
+    },
+    {
+        "id": "MVNR",
+        "name": "Malviya Nagar",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "781.6608842799499",
+                "y": "989.2827699917557",
+                "text": "Malviya Nagar",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "SAKT",
+        "name": "Saket",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "781.6608842799499",
+                "y": "1016.5314357617041",
+                "text": "Saket",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "QM",
+        "name": "Qutab Minar",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "781.6608842799499",
+                "y": "1043.7909489304463",
+                "text": "Qutab Minar",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "CHTP",
+        "name": "Chhatarpur",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "781.6608842799499",
+                "y": "1072.6775719182538",
+                "text": "Chhatarpur",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "SLTP",
+        "name": "Sultanpur",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "781.6608842799499",
+                "y": "1104.449602985204",
+                "text": "Sultanpur",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "GTNI",
+        "name": "Ghitorni",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "781.6608842799499",
+                "y": "1123.3240768863625",
+                "text": "Ghitorni",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "AJG",
+        "name": "Arjan Garh",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "781.6608842799499",
+                "y": "1142.2093981863147",
+                "text": "Arjan Garh",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "GE",
+        "name": "Guru Dronacharya",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "781.6608842799499",
+                "y": "1161.0730246886794",
+                "text": "Guru Dronacharya",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "SKRP",
+        "name": "Sikanderpur",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "779.552053104493",
+                "y": "1181.7661227969259",
+                "text": "Sikanderpur",
+                "dominant-baseline": "baseline"
+            }
+        ]
+    },
+    {
+        "id": "MGRO",
+        "name": "M.G. Road",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "781.6608842799499",
+                "y": "1231.6787434373234",
+                "text": "M.G. Road",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "IFOC",
+        "name": "IFFCO Chowk",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "781.6608842799499",
+                "y": "1297.468217121534",
+                "text": "IFFCO Chowk",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "HCC",
+        "name": "Millennium CityCentre Gurugram",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "781.6608842799499",
+                "y": "1358.2468434069508",
+                "text": "Millennium City",
+                "dominant-baseline": "middle"
+            },
+            {
+                "x": "781.6608842799499",
+                "y": "1358.2468434069508",
+                "text": "Centre Gurugram",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "DSTO",
+        "name": "Dwarka Sector - 21",
+        "text-anchor": "end",
+        "labels": [
+            {
+                "x": "406.5197899943594",
+                "y": "1311.6457673449904",
+                "text": "Dwarka Sector - 21",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "DSET",
+        "name": "Dwarka Sector - 8",
+        "text-anchor": "end",
+        "labels": [
+            {
+                "x": "406.5197899943594",
+                "y": "1248.6983121447474",
+                "text": "Dwarka Sector - 8",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "DSN",
+        "name": "Dwarka Sector - 9",
+        "text-anchor": "end",
+        "labels": [
+            {
+                "x": "406.5197899943594",
+                "y": "1190.805744782401",
+                "text": "Dwarka Sector - 9",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "DST",
+        "name": "Dwarka Sector - 10",
+        "text-anchor": "end",
+        "labels": [
+            {
+                "x": "406.5197899943594",
+                "y": "1132.9131774200546",
+                "text": "Dwarka Sector - 10",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "DSE",
+        "name": "Dwarka Sector - 11",
+        "text-anchor": "end",
+        "labels": [
+            {
+                "x": "406.5197899943594",
+                "y": "1076.387382305723",
+                "text": "Dwarka Sector - 11",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "DSW",
+        "name": "Dwarka Sector - 12",
+        "text-anchor": "end",
+        "labels": [
+            {
+                "x": "406.5197899943594",
+                "y": "1017.1171952965676",
+                "text": "Dwarka Sector - 12",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "DSTN",
+        "name": "Dwarka Sector - 13",
+        "text-anchor": "end",
+        "labels": [
+            {
+                "x": "406.5197899943594",
+                "y": "959.2246279342212",
+                "text": "Dwarka Sector - 13",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "DSFN",
+        "name": "Dwarka Sector - 14",
+        "text-anchor": "end",
+        "labels": [
+            {
+                "x": "406.5197899943594",
+                "y": "901.3320605718746",
+                "text": "Dwarka Sector - 14",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "DW",
+        "name": "Dwarka",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "420.9197899943594",
+                "y": "835.499197292489",
+                "text": "Dwarka",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "DM",
+        "name": "Dwarka Mor",
+        "text-anchor": "end",
+        "labels": [
+            {
+                "x": "406.5197899943594",
+                "y": "785.5360784483878",
+                "text": "Dwarka Mor",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "NWD",
+        "name": "Nawada",
+        "text-anchor": "end",
+        "labels": [
+            {
+                "x": "406.5197899943594",
+                "y": "727.6435110860414",
+                "text": "Nawada",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "UNW",
+        "name": "Uttam Nagar West",
+        "text-anchor": "end",
+        "labels": [
+            {
+                "x": "406.5197899943594",
+                "y": "669.7509437236948",
+                "text": "Uttam Nagar West",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "UNE",
+        "name": "Uttam Nagar East",
+        "text-anchor": "end",
+        "labels": [
+            {
+                "x": "406.5197899943594",
+                "y": "611.8475289625546",
+                "text": "Uttam Nagar East",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "JPW",
+        "name": "Janakpuri West",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "439.03051017048847",
+                "y": "576.5863742742761",
+                "text": "Janakpuri West",
+                "dominant-baseline": "hanging"
+            }
+        ]
+    },
+    {
+        "id": "JPE",
+        "name": "Janakpuri East",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "466.0730753633552",
+                "y": "567.3010009068096",
+                "text": "Janakpuri East",
+                "dominant-baseline": "hanging"
+            }
+        ]
+    },
+    {
+        "id": "TN",
+        "name": "Tilak Nagar",
+        "text-anchor": "middle",
+        "labels": [
+            {
+                "x": "495.50917689937955",
+                "y": "560.9380136243326",
+                "text": "Tilak Nagar",
+                "dominant-baseline": "hanging"
+            }
+        ]
+    },
+    {
+        "id": "SN",
+        "name": "Subhash Nagar",
+        "text-anchor": "middle",
+        "labels": [
+            {
+                "x": "528.6262854167571",
+                "y": "546.5380136243325",
+                "text": "Subhash Nagar",
+                "dominant-baseline": "baseline"
+            }
+        ]
+    },
+    {
+        "id": "TG",
+        "name": "Tagore Garden",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "569.0908217077819",
+                "y": "548.6468447997894",
+                "text": "Tagore Garden",
+                "dominant-baseline": "baseline"
+            }
+        ]
+    },
+    {
+        "id": "RG",
+        "name": "Rajouri Garden",
+        "text-anchor": "end",
+        "labels": [
+            {
+                "x": "622.3332248058642",
+                "y": "558.8291824488757",
+                "text": "Rajouri Garden",
+                "dominant-baseline": "hanging"
+            }
+        ]
+    },
+    {
+        "id": "RN",
+        "name": "Ramesh Nagar",
+        "text-anchor": "middle",
+        "labels": [
+            {
+                "x": "657.2438929144791",
+                "y": "560.9380136243326",
+                "text": "Ramesh Nagar",
+                "dominant-baseline": "hanging"
+            }
+        ]
+    },
+    {
+        "id": "MN",
+        "name": "Moti Nagar",
+        "text-anchor": "middle",
+        "labels": [
+            {
+                "x": "672.1916084522932",
+                "y": "546.5380136243325",
+                "text": "Moti Nagar",
+                "dominant-baseline": "baseline"
+            }
+        ]
+    },
+    {
+        "id": "KNR",
+        "name": "Kirti Nagar",
+        "text-anchor": "middle",
+        "labels": [
+            {
+                "x": "699.9717967631364",
+                "y": "560.9380136243326",
+                "text": "Kirti Nagar",
+                "dominant-baseline": "hanging"
+            }
+        ]
+    },
+    {
+        "id": "SP",
+        "name": "Shadipur",
+        "text-anchor": "middle",
+        "labels": [
+            {
+                "x": "724.758103006899",
+                "y": "546.5380136243325",
+                "text": "Shadipur",
+                "dominant-baseline": "baseline"
+            }
+        ]
+    },
+    {
+        "id": "PN",
+        "name": "Patel Nagar",
+        "text-anchor": "middle",
+        "labels": [
+            {
+                "x": "741.0834381915217",
+                "y": "560.9380136243326",
+                "text": "Patel Nagar",
+                "dominant-baseline": "hanging"
+            }
+        ]
+    },
+    {
+        "id": "RP",
+        "name": "Rajendra Place",
+        "text-anchor": "middle",
+        "labels": [
+            {
+                "x": "767.724649629019",
+                "y": "546.5380136243325",
+                "text": "Rajendra Place",
+                "dominant-baseline": "baseline"
+            }
+        ]
+    },
+    {
+        "id": "KB",
+        "name": "Karol Bagh",
+        "text-anchor": "middle",
+        "labels": [
+            {
+                "x": "785.1021824966374",
+                "y": "560.9380136243326",
+                "text": "Karol Bagh",
+                "dominant-baseline": "hanging"
+            }
+        ]
+    },
+    {
+        "id": "JW",
+        "name": "Jhandewalan",
+        "text-anchor": "middle",
+        "labels": [
+            {
+                "x": "817.2755673189571",
+                "y": "546.5380136243325",
+                "text": "Jhandewalan",
+                "dominant-baseline": "baseline"
+            }
+        ]
+    },
+    {
+        "id": "RKAM",
+        "name": "Ramakrishna AshramMarg",
+        "text-anchor": "middle",
+        "labels": [
+            {
+                "x": "843.2550874300343",
+                "y": "560.9380136243326",
+                "text": "Ramakrishna Ashram",
+                "dominant-baseline": "hanging"
+            },
+            {
+                "x": "843.2550874300343",
+                "y": "560.9380136243326",
+                "text": "Marg",
+                "dominant-baseline": "hanging"
+            }
+        ]
+    },
+    {
+        "id": "BRKR",
+        "name": "Barakhamba Road",
+        "text-anchor": "middle",
+        "labels": [
+            {
+                "x": "930.5658003210831",
+                "y": "546.5380136243325",
+                "text": "Barakhamba Road",
+                "dominant-baseline": "baseline"
+            }
+        ]
+    },
+    {
+        "id": "MDHS",
+        "name": "Mandi House",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "967.0818834511757",
+                "y": "548.6468447997894",
+                "text": "Mandi House",
+                "dominant-baseline": "baseline"
+            }
+        ]
+    },
+    {
+        "id": "PTMD",
+        "name": "Supreme Court",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "994.1786856380113",
+                "y": "562.9654112075649",
+                "text": "Supreme Court",
+                "dominant-baseline": "baseline"
+            }
+        ]
+    },
+    {
+        "id": "IDPT",
+        "name": "Indraprastha",
+        "text-anchor": "end",
+        "labels": [
+            {
+                "x": "1003.473840413069",
+                "y": "581.4314227448255",
+                "text": "Indraprastha",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "YB",
+        "name": "Yamuna Bank",
+        "text-anchor": "end",
+        "labels": [
+            {
+                "x": "1027.2404911702174",
+                "y": "598.1255694884364",
+                "text": "Yamuna Bank",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "ASDM",
+        "name": "Akshardham",
+        "text-anchor": "end",
+        "labels": [
+            {
+                "x": "1073.0165140799238",
+                "y": "638.8250097626587",
+                "text": "Akshardham",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "MVP1",
+        "name": "Mayur Vihar-1",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "1124.2434329847704",
+                "y": "667.8526489347852",
+                "text": "Mayur Vihar-1",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "MVE",
+        "name": "Mayur ViharExtension",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "1135.5572699266716",
+                "y": "679.080357530264",
+                "text": "Mayur Vihar",
+                "dominant-baseline": "middle"
+            },
+            {
+                "x": "1135.5572699266716",
+                "y": "679.080357530264",
+                "text": "Extension",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "NAGR",
+        "name": "New Ashok Nagar",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "1157.7727426563108",
+                "y": "705.8836291057402",
+                "text": "New Ashok Nagar",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "NSFT",
+        "name": "Noida Sec-15",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "1180.8885494858334",
+                "y": "727.8387642643291",
+                "text": "Noida Sec-15",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "NSST",
+        "name": "Noida Sec-16",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "1203.7223239467178",
+                "y": "749.2840716796109",
+                "text": "Noida Sec-16",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "NSET",
+        "name": "Noida Sec-18",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "1225.3954267366685",
+                "y": "769.5253178287842",
+                "text": "Noida Sec-18",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "BCGN",
+        "name": "Botanical Garden",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "1243.4997353234692",
+                "y": "781.7828784657437",
+                "text": "Botanical Garden",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "GEC",
+        "name": "Golf Course",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "1286.3144183624765",
+                "y": "827.266021608018",
+                "text": "Golf Course",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "NCC",
+        "name": "Noida City Centre",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "1317.793569661995",
+                "y": "857.0421312969147",
+                "text": "Noida City Centre",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "STFN",
+        "name": "Sector-34 Noida",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "1349.2618735627195",
+                "y": "886.8182409858114",
+                "text": "Sector-34 Noida",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "SFTN",
+        "name": "Sec-52 Noida",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "1380.7410248622382",
+                "y": "916.5943506747079",
+                "text": "Sec-52 Noida",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "SSON",
+        "name": "Sec-61 Noida",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "1412.2201761617564",
+                "y": "946.3704603636046",
+                "text": "Sec-61 Noida",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "SFNN",
+        "name": "Sec-59 Noida",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "1443.6884800624812",
+                "y": "976.146570052501",
+                "text": "Sec-59 Noida",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "SSTN",
+        "name": "Sec-62 Noida",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "1475.1676313619994",
+                "y": "1005.9226797413979",
+                "text": "Sec-62 Noida",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "NECC",
+        "name": "Noida ElectronicCity",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "1506.1152601206231",
+                "y": "1029.9828611099056",
+                "text": "Noida Electronic",
+                "dominant-baseline": "middle"
+            },
+            {
+                "x": "1506.1152601206231",
+                "y": "1029.9828611099056",
+                "text": "City",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "LN",
+        "name": "Laxmi Nagar",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "1076.553832077895",
+                "y": "576.2501049116693",
+                "text": "Laxmi Nagar",
+                "dominant-baseline": "hanging"
+            }
+        ]
+    },
+    {
+        "id": "NV",
+        "name": "Nirman Vihar",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "1100.1794666507244",
+                "y": "553.4597200459599",
+                "text": "Nirman Vihar",
+                "dominant-baseline": "hanging"
+            }
+        ]
+    },
+    {
+        "id": "PTVR",
+        "name": "Preet Vihar",
+        "text-anchor": "end",
+        "labels": [
+            {
+                "x": "1112.9610722480475",
+                "y": "520.8341142925651",
+                "text": "Preet Vihar",
+                "dominant-baseline": "baseline"
+            }
+        ]
+    },
+    {
+        "id": "KKDA",
+        "name": "Karkarduma",
+        "text-anchor": "end",
+        "labels": [
+            {
+                "x": "1134.9334663947584",
+                "y": "499.43593526272383",
+                "text": "Karkarduma",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "AVIT",
+        "name": "Anand Vihar I.S.B.T",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "1185.6569691456261",
+                "y": "471.3883007723019",
+                "text": "Anand Vihar I.S.B.T",
+                "dominant-baseline": "hanging"
+            }
+        ]
+    },
+    {
+        "id": "KSHI",
+        "name": "Kaushambi",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "1242.1285272659886",
+                "y": "416.32690449512904",
+                "text": "Kaushambi",
+                "dominant-baseline": "hanging"
+            }
+        ]
+    },
+    {
+        "id": "VASI",
+        "name": "Vaishali",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "1308.0915593308996",
+                "y": "352.6743683732911",
+                "text": "Vaishali",
+                "dominant-baseline": "hanging"
+            }
+        ]
+    },
+    {
+        "id": "CIPK",
+        "name": "Brig. Hoshiar Singh",
+        "text-anchor": "end",
+        "labels": [
+            {
+                "x": "-6.115260120623074",
+                "y": "494.4352844187961",
+                "text": "Brig. Hoshiar Singh",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "BUSS",
+        "name": "Bahadurgarh City",
+        "text-anchor": "middle",
+        "labels": [
+            {
+                "x": "33.6920206534473",
+                "y": "501.63528441879606",
+                "text": "Bahadurgarh City",
+                "dominant-baseline": "hanging"
+            }
+        ]
+    },
+    {
+        "id": "MIEE",
+        "name": "Pandit Shree RamSharma",
+        "text-anchor": "middle",
+        "labels": [
+            {
+                "x": "66.29930142751769",
+                "y": "482.2352844187961",
+                "text": "Pandit Shree Ram",
+                "dominant-baseline": "baseline"
+            },
+            {
+                "x": "66.29930142751769",
+                "y": "482.2352844187961",
+                "text": "Sharma",
+                "dominant-baseline": "baseline"
+            }
+        ]
+    },
+    {
+        "id": "TKBR",
+        "name": "Tikri Border",
+        "text-anchor": "middle",
+        "labels": [
+            {
+                "x": "98.90658220158807",
+                "y": "501.63528441879606",
+                "text": "Tikri Border",
+                "dominant-baseline": "hanging"
+            }
+        ]
+    },
+    {
+        "id": "TKLM",
+        "name": "Tikri Kalan",
+        "text-anchor": "middle",
+        "labels": [
+            {
+                "x": "131.50301557686467",
+                "y": "487.2352844187961",
+                "text": "Tikri Kalan",
+                "dominant-baseline": "baseline"
+            }
+        ]
+    },
+    {
+        "id": "GHEM",
+        "name": "Ghevra Metro Station",
+        "text-anchor": "middle",
+        "labels": [
+            {
+                "x": "164.11029635093504",
+                "y": "501.63528441879606",
+                "text": "Ghevra Metro Station",
+                "dominant-baseline": "hanging"
+            }
+        ]
+    },
+    {
+        "id": "MIAA",
+        "name": "Mundka IndustrialArea (MIA)",
+        "text-anchor": "middle",
+        "labels": [
+            {
+                "x": "196.71757712500545",
+                "y": "482.2352844187961",
+                "text": "Mundka Industrial",
+                "dominant-baseline": "baseline"
+            },
+            {
+                "x": "196.71757712500545",
+                "y": "482.2352844187961",
+                "text": "Area (MIA)",
+                "dominant-baseline": "baseline"
+            }
+        ]
+    },
+    {
+        "id": "MUDK",
+        "name": "Mundka",
+        "text-anchor": "middle",
+        "labels": [
+            {
+                "x": "229.32485789907582",
+                "y": "501.63528441879606",
+                "text": "Mundka",
+                "dominant-baseline": "hanging"
+            }
+        ]
+    },
+    {
+        "id": "RDPK",
+        "name": "Rajdhani Park",
+        "text-anchor": "middle",
+        "labels": [
+            {
+                "x": "261.9212912743524",
+                "y": "487.2352844187961",
+                "text": "Rajdhani Park",
+                "dominant-baseline": "baseline"
+            }
+        ]
+    },
+    {
+        "id": "NRSN",
+        "name": "Nangloi RailwayStation",
+        "text-anchor": "middle",
+        "labels": [
+            {
+                "x": "294.52857204842286",
+                "y": "501.63528441879606",
+                "text": "Nangloi Railway",
+                "dominant-baseline": "hanging"
+            },
+            {
+                "x": "294.52857204842286",
+                "y": "501.63528441879606",
+                "text": "Station",
+                "dominant-baseline": "hanging"
+            }
+        ]
+    },
+    {
+        "id": "NNOI",
+        "name": "Nangloi",
+        "text-anchor": "middle",
+        "labels": [
+            {
+                "x": "327.13585282249323",
+                "y": "487.2352844187961",
+                "text": "Nangloi",
+                "dominant-baseline": "baseline"
+            }
+        ]
+    },
+    {
+        "id": "SMSM",
+        "name": "Maharaja SurajmalStadium",
+        "text-anchor": "middle",
+        "labels": [
+            {
+                "x": "359.7431335965636",
+                "y": "501.63528441879606",
+                "text": "Maharaja Surajmal",
+                "dominant-baseline": "hanging"
+            },
+            {
+                "x": "359.7431335965636",
+                "y": "501.63528441879606",
+                "text": "Stadium",
+                "dominant-baseline": "hanging"
+            }
+        ]
+    },
+    {
+        "id": "UNRG",
+        "name": "Udyog Nagar",
+        "text-anchor": "middle",
+        "labels": [
+            {
+                "x": "392.350414370634",
+                "y": "487.2352844187961",
+                "text": "Udyog Nagar",
+                "dominant-baseline": "baseline"
+            }
+        ]
+    },
+    {
+        "id": "PAGI",
+        "name": "Peeragarhi",
+        "text-anchor": "middle",
+        "labels": [
+            {
+                "x": "442.92098754718626",
+                "y": "501.63528441879606",
+                "text": "Peeragarhi",
+                "dominant-baseline": "hanging"
+            }
+        ]
+    },
+    {
+        "id": "PVW",
+        "name": "Paschim Vihar West",
+        "text-anchor": "middle",
+        "labels": [
+            {
+                "x": "472.7513342300517",
+                "y": "487.2352844187961",
+                "text": "Paschim Vihar West",
+                "dominant-baseline": "baseline"
+            }
+        ]
+    },
+    {
+        "id": "PVE",
+        "name": "Paschim Vihar East",
+        "text-anchor": "middle",
+        "labels": [
+            {
+                "x": "510.42435024081226",
+                "y": "501.63528441879606",
+                "text": "Paschim Vihar East",
+                "dominant-baseline": "hanging"
+            }
+        ]
+    },
+    {
+        "id": "MAPR",
+        "name": "Madipur",
+        "text-anchor": "middle",
+        "labels": [
+            {
+                "x": "544.5936564411854",
+                "y": "487.2352844187961",
+                "text": "Madipur",
+                "dominant-baseline": "baseline"
+            }
+        ]
+    },
+    {
+        "id": "SHVP",
+        "name": "Shivaji Park",
+        "text-anchor": "middle",
+        "labels": [
+            {
+                "x": "574.3046817373195",
+                "y": "501.63528441879606",
+                "text": "Shivaji Park",
+                "dominant-baseline": "hanging"
+            }
+        ]
+    },
+    {
+        "id": "PBGW",
+        "name": "Punjabi Bagh West",
+        "text-anchor": "middle",
+        "labels": [
+            {
+                "x": "625.4067774547665",
+                "y": "487.2352844187961",
+                "text": "Punjabi Bagh West",
+                "dominant-baseline": "baseline"
+            }
+        ]
+    },
+    {
+        "id": "PBGA",
+        "name": "Punjabi Bagh",
+        "text-anchor": "middle",
+        "labels": [
+            {
+                "x": "658.1116848179807",
+                "y": "501.63528441879606",
+                "text": "Punjabi Bagh",
+                "dominant-baseline": "hanging"
+            }
+        ]
+    },
+    {
+        "id": "APMN",
+        "name": "Ashok Park Main",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "695.2396580899901",
+                "y": "494.4352844187961",
+                "text": "Ashok Park Main",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "SRSM",
+        "name": "Satguru Ram SinghMarg",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "700.4311263027399",
+                "y": "524.6707236472964",
+                "text": "Satguru Ram Singh",
+                "dominant-baseline": "hanging"
+            },
+            {
+                "x": "700.4311263027399",
+                "y": "524.6707236472964",
+                "text": "Marg",
+                "dominant-baseline": "hanging"
+            }
+        ]
+    },
+    {
+        "id": "LLQA",
+        "name": "Lal Quila",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "969.1907146266326",
+                "y": "458.0422614657002",
+                "text": "Lal Quila",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "JAMD",
+        "name": "Jama Masjid",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "969.1907146266326",
+                "y": "479.6068902677135",
+                "text": "Jama Masjid",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "DLIG",
+        "name": "Delhi Gate",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "969.1907146266326",
+                "y": "492.96003818284345",
+                "text": "Delhi Gate",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "ITO",
+        "name": "ITO",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "969.1907146266326",
+                "y": "530.9910183537985",
+                "text": "ITO",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "JNPH",
+        "name": "Janpath",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "969.1907146266326",
+                "y": "636.5904456111422",
+                "text": "Janpath",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "KM",
+        "name": "Khan Market",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "910.9574420922137",
+                "y": "725.5136821321971",
+                "text": "Khan Market",
+                "dominant-baseline": "baseline"
+            }
+        ]
+    },
+    {
+        "id": "JLNS",
+        "name": "JLN Stadium",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "963.8212522237168",
+                "y": "738.9356532303551",
+                "text": "JLN Stadium",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "JGPA",
+        "name": "Jangpura",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "972.6076452466699",
+                "y": "763.244673927192",
+                "text": "Jangpura",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "LJPN",
+        "name": "Lajpat Nagar",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "970.498814071213",
+                "y": "794.7492588145633",
+                "text": "Lajpat Nagar",
+                "dominant-baseline": "hanging"
+            }
+        ]
+    },
+    {
+        "id": "MLCD",
+        "name": "Moolchand",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "972.141207098538",
+                "y": "829.7392285329977",
+                "text": "Moolchand",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "KHCY",
+        "name": "Kailash Colony",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "972.4557816635572",
+                "y": "870.6773115806826",
+                "text": "Kailash Colony",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "NP",
+        "name": "Nehru Place",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "972.7812036273702",
+                "y": "913.6547056015964",
+                "text": "Nehru Place",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "KJMD",
+        "name": "Kalkaji Mandir",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "972.6357516335858",
+                "y": "967.7869643727705",
+                "text": "Kalkaji Mandir",
+                "dominant-baseline": "hanging"
+            }
+        ]
+    },
+    {
+        "id": "GDPI",
+        "name": "Govind Puri",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "972.6076452466699",
+                "y": "992.6346162190304",
+                "text": "Govind Puri",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "HNOK",
+        "name": "Harkesh Nagar Okhla",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "972.6076452466699",
+                "y": "1014.3836508005378",
+                "text": "Harkesh Nagar Okhla",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "JLA",
+        "name": "Jasola Apollo",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "972.6076452466699",
+                "y": "1036.143532780839",
+                "text": "Jasola Apollo",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "STVR",
+        "name": "Sarita Vihar",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "972.6076452466699",
+                "y": "1057.8925673623464",
+                "text": "Sarita Vihar",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "METE",
+        "name": "Mohan Estate",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "972.6076452466699",
+                "y": "1079.6416019438536",
+                "text": "Mohan Estate",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "TKDS",
+        "name": "Tughlakabad Station",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "972.6076452466699",
+                "y": "1093.2876296264153",
+                "text": "Tughlakabad Station",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "BAPB",
+        "name": "Badarpur Border",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "972.6076452466699",
+                "y": "1123.1505185056621",
+                "text": "Badarpur Border",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "SRAI",
+        "name": "Sarai",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "972.6076452466699",
+                "y": "1144.9104004859632",
+                "text": "Sarai",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "NHPC",
+        "name": "NHPC Chowk",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "972.6076452466699",
+                "y": "1166.6594350674707",
+                "text": "NHPC Chowk",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "MMJR",
+        "name": "Mewala Maharajpur",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "972.6076452466699",
+                "y": "1188.4084696489779",
+                "text": "Mewala Maharajpur",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "STTA",
+        "name": "Sector-28",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "972.6076452466699",
+                "y": "1210.168351629279",
+                "text": "Sector-28",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "BKMR",
+        "name": "Badkal Mor",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "972.6076452466699",
+                "y": "1231.9173862107864",
+                "text": "Badkal Mor",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "OFDB",
+        "name": "Old Faridabad",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "972.6076452466699",
+                "y": "1253.6664207922938",
+                "text": "Old Faridabad",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "NCAJ",
+        "name": "Neelam Chowk Ajronda",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "972.6076452466699",
+                "y": "1275.426302772595",
+                "text": "Neelam Chowk Ajronda",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "BACH",
+        "name": "Bata Chowk",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "972.6076452466699",
+                "y": "1297.175337354102",
+                "text": "Bata Chowk",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "ECMJ",
+        "name": "Ecorts Mujesar",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "972.6076452466699",
+                "y": "1318.9352193344034",
+                "text": "Ecorts Mujesar",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "NCBC",
+        "name": "Sant Surdas (Sihi)",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "972.6076452466699",
+                "y": "1340.6842539159109",
+                "text": "Sant Surdas (Sihi)",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "BVHM",
+        "name": "Raja NaharSingh(Ballabgarh)",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "972.6076452466699",
+                "y": "1357.433288497418",
+                "text": "Raja Nahar",
+                "dominant-baseline": "middle"
+            },
+            {
+                "x": "972.6076452466699",
+                "y": "1357.433288497418",
+                "text": "Singh(Ballabgarh)",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "MKPR",
+        "name": "Majlis Park",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "846.6910400485964",
+                "y": "281.93474204885644",
+                "text": "Majlis Park",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "SMBG",
+        "name": "Shalimar Bagh",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "746.8949711459193",
+                "y": "333.8503926758362",
+                "text": "Shalimar Bagh",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "SAKP",
+        "name": "Shakurpur",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "663.4676270230399",
+                "y": "431.73731939080994",
+                "text": "Shakurpur",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "ESIH",
+        "name": "ESI-Basaidarapur",
+        "text-anchor": "end",
+        "labels": [
+            {
+                "x": "619.6928710895128",
+                "y": "534.2886275871044",
+                "text": "ESI-Basaidarapur",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "MYPI",
+        "name": "Mayapuri",
+        "text-anchor": "end",
+        "labels": [
+            {
+                "x": "630.8765392458889",
+                "y": "609.7322861977696",
+                "text": "Mayapuri",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "NAVR",
+        "name": "Naraina Vihar",
+        "text-anchor": "end",
+        "labels": [
+            {
+                "x": "654.5998004078622",
+                "y": "669.5231483490257",
+                "text": "Naraina Vihar",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "DLIC",
+        "name": "Delhi Cantt",
+        "text-anchor": "end",
+        "labels": [
+            {
+                "x": "693.910773636482",
+                "y": "723.7601423178718",
+                "text": "Delhi Cantt",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "DDSC",
+        "name": "Durgabai DeshmukhSouth Campus",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "766.5134797543824",
+                "y": "760.4429570920618",
+                "text": "Durgabai Deshmukh",
+                "dominant-baseline": "baseline"
+            },
+            {
+                "x": "766.5134797543824",
+                "y": "760.4429570920618",
+                "text": "South Campus",
+                "dominant-baseline": "baseline"
+            }
+        ]
+    },
+    {
+        "id": "SVMB",
+        "name": "Sir M.Vishweshwaraiah MotiBagh",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "794.3479050591941",
+                "y": "773.8394946023669",
+                "text": "Sir M.",
+                "dominant-baseline": "baseline"
+            },
+            {
+                "x": "794.3479050591941",
+                "y": "773.8394946023669",
+                "text": "Vishweshwaraiah Moti",
+                "dominant-baseline": "baseline"
+            },
+            {
+                "x": "794.3479050591941",
+                "y": "773.8394946023669",
+                "text": "Bagh",
+                "dominant-baseline": "baseline"
+            }
+        ]
+    },
+    {
+        "id": "BKCP",
+        "name": "Bhikaji Cama Place",
+        "text-anchor": "end",
+        "labels": [
+            {
+                "x": "812.1952458932076",
+                "y": "799.3810980995027",
+                "text": "Bhikaji Cama Place",
+                "dominant-baseline": "hanging"
+            }
+        ]
+    },
+    {
+        "id": "SOJI",
+        "name": "Sarojini Nagar",
+        "text-anchor": "end",
+        "labels": [
+            {
+                "x": "851.0723231700765",
+                "y": "806.8007188744408",
+                "text": "Sarojini Nagar",
+                "dominant-baseline": "hanging"
+            }
+        ]
+    },
+    {
+        "id": "SOEN",
+        "name": "South Extention",
+        "text-anchor": "middle",
+        "labels": [
+            {
+                "x": "921.681780708986",
+                "y": "809.0288714366294",
+                "text": "South Extention",
+                "dominant-baseline": "hanging"
+            }
+        ]
+    },
+    {
+        "id": "VNPR",
+        "name": "Vinobapuri",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "1017.73282422875",
+                "y": "774.1137675185487",
+                "text": "Vinobapuri",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "AHRM",
+        "name": "Ashram",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "1056.2519373454247",
+                "y": "749.2840716796109",
+                "text": "Ashram",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "NIZM",
+        "name": "Sarai Kale KhanNizamuddin",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "1082.8714539853345",
+                "y": "716.4171041784177",
+                "text": "Sarai Kale Khan",
+                "dominant-baseline": "middle"
+            },
+            {
+                "x": "1082.8714539853345",
+                "y": "716.4171041784177",
+                "text": "Nizamuddin",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "MVPO",
+        "name": "Mayur Vihar Pocket-1",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "1132.6935566451166",
+                "y": "650.6486744478672",
+                "text": "Mayur Vihar Pocket-1",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "TKPR",
+        "name": "Trilokpuri-SanjayLake",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "1141.924693018614",
+                "y": "621.1769427691237",
+                "text": "Trilokpuri-Sanjay",
+                "dominant-baseline": "middle"
+            },
+            {
+                "x": "1141.924693018614",
+                "y": "621.1769427691237",
+                "text": "Lake",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "VENT",
+        "name": "East Vinod Nagar-Mayur Vihar -II",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "1149.073128823708",
+                "y": "593.8089556124439",
+                "text": "East Vinod Nagar-",
+                "dominant-baseline": "middle"
+            },
+            {
+                "x": "1149.073128823708",
+                "y": "593.8089556124439",
+                "text": "Mayur Vihar -II",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "VNNR",
+        "name": "Mandawali West VinodNagar",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "1153.68327331106",
+                "y": "558.3054193604372",
+                "text": "Mandawali West Vinod",
+                "dominant-baseline": "middle"
+            },
+            {
+                "x": "1153.68327331106",
+                "y": "558.3054193604372",
+                "text": "Nagar",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "IPE",
+        "name": "IP Extension",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "1153.68327331106",
+                "y": "530.9910183537985",
+                "text": "IP Extension",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "KKDC",
+        "name": "Karkarduma Court",
+        "text-anchor": "end",
+        "labels": [
+            {
+                "x": "1130.0738317351497",
+                "y": "474.4109862454981",
+                "text": "Karkarduma Court",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "KHNA",
+        "name": "Krishna Nagar",
+        "text-anchor": "end",
+        "labels": [
+            {
+                "x": "1118.7274525968671",
+                "y": "441.1528615438015",
+                "text": "Krishna Nagar",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "EANR",
+        "name": "East Azad Nagar",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "1118.0821104699094",
+                "y": "411.4852258428427",
+                "text": "East Azad Nagar",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "JFRB",
+        "name": "Jafrabad",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "1102.722193777932",
+                "y": "302.7942899292748",
+                "text": "Jafrabad",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "MUPR",
+        "name": "Maujpur-Babarpur",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "1102.722193777932",
+                "y": "246.8759491473943",
+                "text": "Maujpur-Babarpur",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "GKPR",
+        "name": "Gokulpuri",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "1102.722193777932",
+                "y": "190.9467609667202",
+                "text": "Gokulpuri",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "JIEE",
+        "name": "Johri Enclave",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "1102.722193777932",
+                "y": "135.02842018483972",
+                "text": "Johri Enclave",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "SVVR",
+        "name": "Shiv Vihar",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "1102.722193777932",
+                "y": "79.0992320041653",
+                "text": "Shiv Vihar",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "DBMR",
+        "name": "Dabri Mor- JanakpuriSouth",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "448.2118453594828",
+                "y": "613.7573219941855",
+                "text": "Dabri Mor- Janakpuri",
+                "dominant-baseline": "middle"
+            },
+            {
+                "x": "448.2118453594828",
+                "y": "613.7573219941855",
+                "text": "South",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "DSHP",
+        "name": "Dashrathpuri",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "466.00157938126443",
+                "y": "689.0810083741916",
+                "text": "Dashrathpuri",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "PALM",
+        "name": "Palam",
+        "text-anchor": "end",
+        "labels": [
+            {
+                "x": "483.27598385907066",
+                "y": "759.29622076626",
+                "text": "Palam",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "SABR",
+        "name": "Sadar BazarCantonment",
+        "text-anchor": "end",
+        "labels": [
+            {
+                "x": "530.4947108083481",
+                "y": "819.499934915607",
+                "text": "Sadar Bazar",
+                "dominant-baseline": "middle"
+            },
+            {
+                "x": "530.4947108083481",
+                "y": "819.499934915607",
+                "text": "Cantonment",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "IGDA",
+        "name": "Terminal-1 IGIAirport",
+        "text-anchor": "end",
+        "labels": [
+            {
+                "x": "588.7560897296828",
+                "y": "873.6935392892783",
+                "text": "Terminal-1 IGI",
+                "dominant-baseline": "middle"
+            },
+            {
+                "x": "588.7560897296828",
+                "y": "873.6935392892783",
+                "text": "Airport",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "SKVR",
+        "name": "Shankar Vihar",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "669.9282408946608",
+                "y": "921.1682141754133",
+                "text": "Shankar Vihar",
+                "dominant-baseline": "baseline"
+            }
+        ]
+    },
+    {
+        "id": "VTVR",
+        "name": "Vasant Vihar",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "691.7640546665183",
+                "y": "930.8115517030742",
+                "text": "Vasant Vihar",
+                "dominant-baseline": "baseline"
+            }
+        ]
+    },
+    {
+        "id": "MIRK",
+        "name": "Munirka",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "714.5761343298151",
+                "y": "939.934214088634",
+                "text": "Munirka",
+                "dominant-baseline": "baseline"
+            }
+        ]
+    },
+    {
+        "id": "RKPM",
+        "name": "R K Puram",
+        "text-anchor": "end",
+        "labels": [
+            {
+                "x": "727.4011295223133",
+                "y": "958.6426071896232",
+                "text": "R K Puram",
+                "dominant-baseline": "hanging"
+            }
+        ]
+    },
+    {
+        "id": "IIT",
+        "name": "IIT",
+        "text-anchor": "middle",
+        "labels": [
+            {
+                "x": "755.6948843667288",
+                "y": "953.0659782184229",
+                "text": "IIT",
+                "dominant-baseline": "baseline"
+            }
+        ]
+    },
+    {
+        "id": "PSPK",
+        "name": "Panchsheel Park",
+        "text-anchor": "middle",
+        "labels": [
+            {
+                "x": "813.3921985507875",
+                "y": "963.1974486918034",
+                "text": "Panchsheel Park",
+                "dominant-baseline": "baseline"
+            }
+        ]
+    },
+    {
+        "id": "CDLI",
+        "name": "Chirag Delhi",
+        "text-anchor": "middle",
+        "labels": [
+            {
+                "x": "856.6299301427518",
+                "y": "981.5892914479106",
+                "text": "Chirag Delhi",
+                "dominant-baseline": "hanging"
+            }
+        ]
+    },
+    {
+        "id": "GKEI",
+        "name": "Greater Kailash",
+        "text-anchor": "middle",
+        "labels": [
+            {
+                "x": "911.1381090814423",
+                "y": "966.4516683299344",
+                "text": "Greater Kailash",
+                "dominant-baseline": "baseline"
+            }
+        ]
+    },
+    {
+        "id": "NUEE",
+        "name": "Nehru Enclave",
+        "text-anchor": "middle",
+        "labels": [
+            {
+                "x": "939.0050765826354",
+                "y": "977.9771076495856",
+                "text": "Nehru Enclave",
+                "dominant-baseline": "hanging"
+            }
+        ]
+    },
+    {
+        "id": "OKNS",
+        "name": "Okhla NSIC",
+        "text-anchor": "middle",
+        "labels": [
+            {
+                "x": "995.0535861500413",
+                "y": "952.2415759100966",
+                "text": "Okhla NSIC",
+                "dominant-baseline": "baseline"
+            }
+        ]
+    },
+    {
+        "id": "IWNR",
+        "name": "Sukhdev Vihar",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "1043.0028276087667",
+                "y": "950.1382465353079",
+                "text": "Sukhdev Vihar",
+                "dominant-baseline": "hanging"
+            }
+        ]
+    },
+    {
+        "id": "JANR",
+        "name": "Jamia Millia Islamia",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "1090.0198897904286",
+                "y": "925.7604026554429",
+                "text": "Jamia Millia Islamia",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "OVA",
+        "name": "Okhla Vihar",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "1133.4094849655055",
+                "y": "900.0303727166224",
+                "text": "Okhla Vihar",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "JLA8",
+        "name": "Jasola Vihar ShaheenBagh",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "1171.0825009762657",
+                "y": "866.8705254479974",
+                "text": "Jasola Vihar Shaheen",
+                "dominant-baseline": "middle"
+            },
+            {
+                "x": "1171.0825009762657",
+                "y": "866.8705254479974",
+                "text": "Bagh",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "KIKJ",
+        "name": "Kalindi Kunj",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "1202.8979216383912",
+                "y": "841.9967891699569",
+                "text": "Kalindi Kunj",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "OKBS",
+        "name": "Okhla Bird Sanctuary",
+        "text-anchor": "end",
+        "labels": [
+            {
+                "x": "1219.8187977654686",
+                "y": "804.3200343689308",
+                "text": "Okhla Bird Sanctuary",
+                "dominant-baseline": "baseline"
+            }
+        ]
+    },
+    {
+        "id": "NNGI",
+        "name": "Nangli",
+        "text-anchor": "middle",
+        "labels": [
+            {
+                "x": "381.17759361305167",
+                "y": "828.299197292489",
+                "text": "Nangli",
+                "dominant-baseline": "baseline"
+            }
+        ]
+    },
+    {
+        "id": "NFGH",
+        "name": "Najafgarh",
+        "text-anchor": "middle",
+        "labels": [
+            {
+                "x": "359.48279602551315",
+                "y": "842.6991972924891",
+                "text": "Najafgarh",
+                "dominant-baseline": "hanging"
+            }
+        ]
+    },
+    {
+        "id": "DNBT",
+        "name": "Dhansa Bus Stand",
+        "text-anchor": "end",
+        "labels": [
+            {
+                "x": "330.58799843797465",
+                "y": "835.499197292489",
+                "text": "Dhansa Bus Stand",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "DKV",
+        "name": "Dhaula Kuan",
+        "text-anchor": "middle",
+        "labels": [
+            {
+                "x": "733.880765392459",
+                "y": "777.2730333665984",
+                "text": "Dhaula Kuan",
+                "dominant-baseline": "baseline"
+            }
+        ]
+    },
+    {
+        "id": "SJSU",
+        "name": "Shivaji Stadium",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "818.6460783572372",
+                "y": "652.3879970451355",
+                "text": "Shivaji Stadium",
+                "dominant-baseline": "hanging"
+            }
+        ]
+    },
+    {
+        "id": "DACY",
+        "name": "Delhi Aerocity",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "646.7907392675511",
+                "y": "949.19452284025",
+                "text": "Delhi Aerocity",
+                "dominant-baseline": "hanging"
+            }
+        ]
+    },
+    {
+        "id": "APOT",
+        "name": "Airport(T-3)",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "560.6298506486418",
+                "y": "1099.2357429556662",
+                "text": "Airport(T-3)",
+                "dominant-baseline": "hanging"
+            }
+        ]
+    },
+    {
+        "id": "IICC",
+        "name": "Yashobhoomi DwarkaSector - 25",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "345.0486470212716",
+                "y": "1425.210924107226",
+                "text": "Yashobhoomi Dwarka",
+                "dominant-baseline": "hanging"
+            },
+            {
+                "x": "345.0486470212716",
+                "y": "1425.210924107226",
+                "text": "Sector - 25",
+                "dominant-baseline": "hanging"
+            }
+        ]
+    },
+    {
+        "id": "DL2",
+        "name": "Phase-2",
+        "text-anchor": "middle",
+        "labels": [
+            {
+                "x": "718.4991539028941",
+                "y": "1194.057291621469",
+                "text": "Phase-2",
+                "dominant-baseline": "hanging"
+            }
+        ]
+    },
+    {
+        "id": "BEL",
+        "name": "Belvedere Towers",
+        "text-anchor": "end",
+        "labels": [
+            {
+                "x": "618.9444005727427",
+                "y": "1186.857291621469",
+                "text": "Belvedere Towers",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "GAT",
+        "name": "Cyber City",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "643.2480756714541",
+                "y": "1122.6732329587364",
+                "text": "Cyber City",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "MAL",
+        "name": "Moulsari Avenue",
+        "text-anchor": "middle",
+        "labels": [
+            {
+                "x": "646.2229357400096",
+                "y": "1078.255807697314",
+                "text": "Moulsari Avenue",
+                "dominant-baseline": "baseline"
+            }
+        ]
+    },
+    {
+        "id": "DL3",
+        "name": "Phase-3",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "711.3914348939126",
+                "y": "1102.5513081962943",
+                "text": "Phase-3",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "PH1",
+        "name": "Phase-1",
+        "text-anchor": "middle",
+        "labels": [
+            {
+                "x": "814.2274482579078",
+                "y": "1194.057291621469",
+                "text": "Phase-1",
+                "dominant-baseline": "hanging"
+            }
+        ]
+    },
+    {
+        "id": "SUL",
+        "name": "Sector 42-43",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "891.5450340608323",
+                "y": "1186.857291621469",
+                "text": "Sector 42-43",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "S53",
+        "name": "Sector 53-54",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "891.5450340608323",
+                "y": "1263.1578947368419",
+                "text": "Sector 53-54",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "AIT",
+        "name": "Sector 54 Chowk",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "891.5450340608323",
+                "y": "1312.79559161713",
+                "text": "Sector 54 Chowk",
+                "dominant-baseline": "middle"
+            }
+        ]
+    },
+    {
+        "id": "S55",
+        "name": "Sector 55-56",
+        "text-anchor": "start",
+        "labels": [
+            {
+                "x": "891.5450340608323",
+                "y": "1362.433288497418",
+                "text": "Sector 55-56",
+                "dominant-baseline": "middle"
+            }
+        ]
+    }
+]

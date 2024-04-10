@@ -1,0 +1,77 @@
+[
+    {
+        "id": "RI",
+        "transform": "translate(475.10521976829955,185.47967197466048)",
+        "stroke": "#c1282b"
+    },
+    {
+        "id": "NBAA",
+        "transform": "translate(1488.0895561244413,1.0847398793769663)",
+        "stroke": "#c1282b"
+    },
+    {
+        "id": "SPBI",
+        "transform": "translate(550.5705731765523,53.455981255694894)",
+        "stroke": "#f5d618"
+    },
+    {
+        "id": "HCC",
+        "transform": "translate(774.4608842799498,1363.2468434069508)",
+        "stroke": "#f5d618"
+    },
+    {
+        "id": "NECC",
+        "transform": "translate(1498.915260120623,1034.9828611099056)",
+        "stroke": "#3e77bc"
+    },
+    {
+        "id": "VASI",
+        "transform": "translate(1303.0003905063566,347.5831995487479)",
+        "stroke": "#3e77bc"
+    },
+    {
+        "id": "CIPK",
+        "transform": "translate(1.0847398793769256,494.4352844187961)",
+        "stroke": "#52aa55"
+    },
+    {
+        "id": "BVHM",
+        "transform": "translate(965.4076452466699,1362.433288497418)",
+        "stroke": "#8115ff"
+    },
+    {
+        "id": "MKPR",
+        "transform": "translate(839.4910400485963,281.93474204885644)",
+        "stroke": "#e692be"
+    },
+    {
+        "id": "SVVR",
+        "transform": "translate(1095.522193777932,79.0992320041653)",
+        "stroke": "#e692be"
+    },
+    {
+        "id": "DNBT",
+        "transform": "translate(337.78799843797464,835.499197292489)",
+        "stroke": "#d4d4d6"
+    },
+    {
+        "id": "DKV",
+        "transform": "translate(733.880765392459,784.4730333665984)",
+        "stroke": "#d4d4d6"
+    },
+    {
+        "id": "IICC",
+        "transform": "translate(339.95747819672846,1420.119755282683)",
+        "stroke": "#eb8923"
+    },
+    {
+        "id": "DL2",
+        "transform": "translate(718.4991539028941,1186.857291621469)",
+        "stroke": "#015b97"
+    },
+    {
+        "id": "S55",
+        "transform": "translate(884.3450340608323,1362.433288497418)",
+        "stroke": "#015b97"
+    }
+]

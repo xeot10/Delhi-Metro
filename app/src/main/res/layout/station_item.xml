@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="5dp"
+    android:orientation="vertical">
+
+    <!-- Station Name TextView -->
+    <LinearLayout
+        android:paddingTop="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+    <RelativeLayout
+        android:id="@+id/fromStationLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <View
+            android:id="@+id/dotFromStation"
+            android:layout_width="10dp"
+            android:layout_height="10dp"
+            android:layout_centerVertical="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginEnd="4dp"
+            android:background="@drawable/dot_active" />
+
+        <TextView
+            android:id="@+id/fromStationName"
+            android:layout_width="wrap_content"
+            android:layout_marginStart="5dp"
+            android:fontFamily="@font/hnm"
+            android:textColor="#1F1F1F"
+            android:textSize="15dp"
+            android:layout_toRightOf="@id/dotFromStation"
+            android:layout_height="wrap_content"
+            android:text="hello1"/>
+
+        <TextView
+            android:id="@+id/platformNumber"
+            android:layout_width="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginEnd="20dp"
+            android:layout_height="wrap_content"
+            android:text="platform 1"/>
+    </RelativeLayout>
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="-10dp"
+        android:layout_marginBottom="-10dp">
+        <View
+            android:id="@+id/line"
+            android:layout_width="2dp"
+            android:layout_height="35dp"
+            android:layout_marginStart="4dp"
+            android:layout_marginEnd="4dp"
+
+            android:background="@android:color/black" />
+    </LinearLayout>
+
+    <!-- Dots View -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="10dp">
+    <RelativeLayout
+        android:id="@+id/toStationlayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <View
+            android:id="@+id/dotToStation"
+            android:layout_width="10dp"
+            android:layout_height="10dp"
+            android:layout_centerVertical="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginEnd="4dp"
+            android:background="@drawable/dot_active" />
+
+        <TextView
+            android:id="@+id/toStationName"
+            android:text="helo2"
+            android:layout_width="wrap_content"
+            android:layout_marginStart="5dp"
+            android:textSize="15dp"
+            android:fontFamily="@font/hnm"
+            android:textColor="#1F1F1F"
+            android:layout_toRightOf="@id/dotToStation"
+            android:layout_height="wrap_content" />
+    </RelativeLayout>
+    </LinearLayout>
+
+
+</LinearLayout>
